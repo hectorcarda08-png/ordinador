@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  background-color: lightgreen;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+main {
+  padding: 5px;
+}
+
+section {
+  background-color: aquamarine;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  background-color: lightgray;
+  border: 3px solid orange;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+section p {
+  border: 3px solid red;
+  padding: 3px;
+}
+
+img {
+  border: 3px solid purple;
+  width: 300px;
+}
+
+h3 {
+  border: 3px solid blue;
+  padding: 3px;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+section ul {
+  background-color: yellow;
+  border: 3px solid black;
+  padding: 10px;
+}
